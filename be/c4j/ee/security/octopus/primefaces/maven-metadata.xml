@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>be.c4j.ee.security.octopus</groupId>
+  <artifactId>primefaces</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140408134150</lastUpdated>
+  </versioning>
+</metadata>
