@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>be.c4j.ee.security</groupId>
+  <artifactId>octopus</artifactId>
+  <version>0.9.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140408.134045</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20140408134045</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.3-20140408.134045-2</value>
+        <updated>20140408134045</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.3-20140408.134045-2</value>
+        <updated>20140408134045</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.9.3-20140408.134045-2</value>
+        <updated>20140408134045</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
