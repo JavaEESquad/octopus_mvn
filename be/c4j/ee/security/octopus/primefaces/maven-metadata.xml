@@ -3,9 +3,10 @@
   <groupId>be.c4j.ee.security.octopus</groupId>
   <artifactId>primefaces</artifactId>
   <versioning>
+    <release>0.9.3</release>
     <versions>
-      <version>0.9.3-SNAPSHOT</version>
+      <version>0.9.3</version>
     </versions>
-    <lastUpdated>20140408134150</lastUpdated>
+    <lastUpdated>20140630064357</lastUpdated>
   </versioning>
 </metadata>
